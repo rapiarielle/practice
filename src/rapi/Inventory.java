@@ -1,5 +1,5 @@
 package rapi;
-
+//practicelang
 public class Inventory {
     //initialize the default value.
 	private String id = "ABC-1234";
