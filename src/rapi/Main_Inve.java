@@ -1,7 +1,7 @@
 package rapi;
 
 import java.util.*;
-
+//ang ganda ko
 public class Main_Inve {
 
     public static void main(String[] args) {
